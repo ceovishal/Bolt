@@ -2,7 +2,7 @@
 
 There might be cases when the ad-hoc command do not satisfy your need for automation and you want to collect them into tasks which you can use to run.
 
-You can retrieve the module locations where bolt is looking for tasks and plans to execute with the following command **bolt plan show**.
+You can retrieve the module locations where bolt is looking for tasks to execute with the following command **bolt task show**.
 
 You should create the following folder structure the define tasks.
 
